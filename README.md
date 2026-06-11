@@ -10,5 +10,4 @@ Download link (Baidu Netdisk):https://pan.baidu.com/s/1XTBQb0kGP0RaNQcdl0gQyg. E
 ```bash
 python train.py
 ## Test
-```bash
 python test.py

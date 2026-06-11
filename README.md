@@ -7,7 +7,6 @@ Download link (Baidu Netdisk):https://pan.baidu.com/s/1LrIU7pl_3mBdae0g8x4Z1w. E
 ### 2. Pre-trained Model Weights
 Download link (Baidu Netdisk):https://pan.baidu.com/s/1XTBQb0kGP0RaNQcdl0gQyg. Extraction code: 3abu
 ## Train
-## Test
 ```bash
 python train.py
 

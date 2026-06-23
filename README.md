@@ -1,4 +1,3 @@
-<img width="760" height="400" alt="image" src="https://github.com/user-attachments/assets/5cb76f10-6a39-44d9-af8a-5fcfb346c4b1" /># SVMA-Net
 Official PyTorch implementation of SVMA-Net: Infrared and Visible Image Fusion via Salient Visual Mamba Module and Complementary Dual-Attention Interactive Aggregation 
 
 
